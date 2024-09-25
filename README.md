@@ -4,6 +4,8 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honetnet in Azure](https://github.com/nahjeek/Cloud-SOC)
+ 
+- <b>More on the way...</b>
 
 <h2> 🤳 Connect with me:</h2>
 
