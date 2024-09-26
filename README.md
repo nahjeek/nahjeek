@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nahjeek! <br/><a href="https://github.com/nahjeek/Cloud-SOC">IT Specialist</a>, <a href="https://www.linkedin.com/in/nahjeek-mitter/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nahjeek! <br/><a href="https://github.com/nahjeek/Cloud-SOC">IT Specialist</a></h1>
 
 <h2>👨‍💻 My Cybersecurity Project:</h2>
 
