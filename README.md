@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nahjeek! <br/><a href="https://github.com/nahjeek/Cloud-SOC">IT Specialist</a></h1>
+<h1>Hi, I'm N.S.! <br/><a href="https://github.com/nahjeek/Cloud-SOC">IT Specialist</a></h1>
 
 <h2>👨‍💻 My Cybersecurity Project:</h2>
 
